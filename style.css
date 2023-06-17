@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    padding-left: 70px;
+    color: white;
+    font-size: 30px;
+}
+body{
+    height: 100vh;
+    width:100%;
+background-image: url(./7029158-pink-flowers-nature.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+align-items: center;
+justify-content: center;
+color: black;
+margin-right: 600px;
+}
+h4{
+    padding-left: 120px;
+    padding-top: 40px; 
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    
+}
+.container{
+    height: 200px;
+    width: 300px;
+    background: linear-gradient(pink);
+    border-radius: 15px;
+    box-shadow: 10px 10px 15px rgb(17, 16, 16);
+ }
+
+
+#progress-bar {
+    width: 80%;
+    background-color: black;
+    margin-left: 30px;
+    margin-top: 40px;
+    border-radius: 20px;
+    transition: all 1s;
+  }
+  
+  #progress {
+    width: 1%;
+    height: 5px;
+    background-color: rgb(247, 240, 240);
+    border-radius: 20px;
+
+    
+  }
+.navigation{
+   
+    padding-left: 100px;
+  
+    padding-top: 15px;
+ }
+ .btn{
+    font-size: 30px;
+ 
+}
+.btn1{
+    font-size: 30px;
+    
+}
+.btn2{
+    font-size: 30px;
+}
+
+
+
+
+
